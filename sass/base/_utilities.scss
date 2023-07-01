@@ -11,3 +11,14 @@
   border-radius: 6px;
   font-weight: 400;
 }
+
+.icon--pimary-color {
+  color: var(--color-primary);
+}
+
+.close-btn {
+  color: var(--color-tertiary);
+  position: relative;
+  right: -35rem;
+  top: -1rem;
+}
